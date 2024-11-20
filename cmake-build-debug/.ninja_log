@@ -1,0 +1,24 @@
+# ninja log v6
+24	529	7537683826363822	CMakeFiles/Logic.dir/main.cpp.obj	b8577784f02170cd
+1441	2695	7514886304249199	CMakeFiles/Logic.dir/Problemas_varios/PermutacionCheker.cpp.obj	7689df917c794f36
+104	1440	7514886290884345	CMakeFiles/Logic.dir/Problemas_varios/Aburrido.cpp.obj	fb7519b4fb2aeb87
+76	1454	7514886290604224	CMakeFiles/Logic.dir/Problemas_varios/sucesionFibonacci.cpp.obj	e022ddda1a52da57
+141	1483	7514886291256889	CMakeFiles/Logic.dir/Problemas_varios/Trik.cpp.obj	7058a64128a3cb33
+1677	3094	7514886306619778	CMakeFiles/Logic.dir/Problemas_varios/formadosEnLaCafeteria.cpp.obj	27b54204c98cb29a
+62	1538	7514886290458107	CMakeFiles/Logic.dir/Problemas_varios/Marathon.cpp.obj	f8295c1b0a552d8f
+90	1497	7514886290738108	CMakeFiles/Logic.dir/Problemas_varios/Ejercitando_la_muñeca.cpp.obj	3f37cfce9d50d572
+129	1468	7514886291130728	CMakeFiles/Logic.dir/Problemas_varios/MensjesDRM.cpp.obj	ca6d0e637f35de06
+117	1516	7514886291014302	CMakeFiles/Logic.dir/Problemas_varios/ArboldeNavidad.cpp.obj	b6e4e41015144120
+154	1677	7514886291387129	CMakeFiles/Logic.dir/Problemas_varios/palabraCorta.cpp.obj	e90b72e0f5cbc055
+1421	2599	7514886304058236	CMakeFiles/Logic.dir/Problemas_varios/Gnomos.cpp.obj	3ec876a6f4f388aa
+1050	1848	7483360856474327	CMakeFiles/Logic.dir/Problemas_varios/Escalera#.cpp.obj	be236cc2c186da02
+1519	2656	7514886305039015	CMakeFiles/Logic.dir/Problemas_varios/generadorFibonacci.cpp.obj	7a6861f72a6fac37
+1454	2703	7514886304390512	CMakeFiles/Logic.dir/Problemas_varios/letraH.cpp.obj	53e5218c2e75c88f
+1497	2657	7514886304817669	CMakeFiles/Logic.dir/Problemas_varios/unidadesBritanicas.cpp.obj	47218efec971d0
+1538	2697	7514886305221444	CMakeFiles/Logic.dir/Problemas_varios/acertijo.cpp.obj	4a199c74df2acb40
+1483	2726	7514886304676861	CMakeFiles/Logic.dir/Problemas_varios/apilandoDigitos.cpp.obj	e7d44b692fb9cab4
+1468	2992	7514886304526062	CMakeFiles/Logic.dir/Problemas_varios/vectorParesOrdenado.cpp.obj	592c753928773b0
+2600	3408	7514886315839058	CMakeFiles/Logic.dir/Problemas_varios/ceramica.cpp.obj	4ecd143b0ef9bea7
+52	4254	7514886290362850	CMakeFiles/Logic.dir/Problemas_varios/Canguros.cpp.obj	759b620d0f2d18be
+530	692	7537683831407527	Logic.exe	e37ecd421bfd8fa2
+93	1005	7537686551431964	build.ninja	c2676f98811e382a
